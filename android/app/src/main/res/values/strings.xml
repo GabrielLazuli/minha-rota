@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Minha Rota</string>
+    <string name="title_activity_main">Minha Rota</string>
+    <string name="package_name">com.minharota.sul</string>
+    <string name="custom_url_scheme">com.minharota.sul</string>
+</resources>
